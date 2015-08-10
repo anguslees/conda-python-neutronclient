@@ -1,0 +1,4 @@
+package: python-neutronclient
+script:
+  - conda build .
+build_targets: conda
